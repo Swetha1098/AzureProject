@@ -1,0 +1,15 @@
+{
+	"name": "df-etlorchest",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf9ebf1e-1b32-46e8-848f-cc9b83c856e7",
+		"tenantId": "4ae87cf8-be07-4c2a-af3e-af3169e30bf5"
+	}
+}
